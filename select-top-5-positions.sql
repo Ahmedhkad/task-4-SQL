@@ -1,0 +1,1 @@
+SELECT `firstname`,`middle_name`,`lastname` FROM `sportsmen` WHERE `position` <= 5;
