@@ -49,14 +49,14 @@ VALUES
 INSERT INTO `sportsmen` (`firstname`,`middle_name`,`lastname`,`email`,`phone`,`birthday`,`age`,`passport`,`position`,`bio`,`video_link`)
 VALUES
   ("Zeph","Bruce","Downs","dictum.eu.placerat@google.edu","89173527335","1991-11-13",25,"52 6454177",41,"pretium neque. Morbi quis urna. Nunc quis arcu vel quam dignissim pharetra. Nam ac nulla. In tincidunt congue turpis. In condimentum. Donec at arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae Donec tincidunt. Donec","https://rutube.ru/sub?p=8"),
-  ("Summer","Macon","Knapp","mauris.rhoncus@protonmail.org","89651506767","1997-01-06",35,"33 0634253",46pokFKiNH52ZK1W64wsWVH1Z2t2gueuTcj2xWWp3QCtAWGhC4m6WsQ7Sou6AtzEzrfTkoPy2ibAyA9vWsdsnRscRcX7bVyfringilla euismod enim. Etiam gravida molestie arcu. Sed eu nibh vulputate mauris sagittis placerat. Cras dictum ultricies ligula. Nullam enim. Sed nulla ante, iaculis nec, eleifend non,","http://rutube.ru/sub/cars?q=11"),
+  ("Summer","Macon","Knapp","mauris.rhoncus@protonmail.org","89651506767","1997-01-06",35,"33 0634253",46pokFKiNH52ZK1W64wsWVH1Z2t2gueuTcj2xWWp3QCtAWGhC4m6WsQ7Sou6AtzEzrfTkoPy2ibAyA9vWsdsnRscRcX7bVy placerat. Cras dictum ultricies ligula. Nullam enim. Sed nulla ante, iaculis nec, eleifend non","http://rutube.ru/sub/cars?q=11"),
   ("Samantha","Flynn","Stevenson","scelerisque.neque.nullam@google.edu","+79443041328","1990-06-22",24,"51 6292574",43,"vel, venenatis vel, faucibus id, libero. Donec consectetuer mauris id sapien. Cras dolor dolor, tempus non, lacinia at, iaculis quis, pede. Praesent eu dui. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean eget magna. Suspendisse","http://rutube.ru/site?str=se"),
   ("Yeo","Brendan","Schmidt","facilisi.sed@google.net","89218744422","1990-03-08",38,"24 4994768",44,"non arcu. Vivamus sit amet risus. Donec egestas. Aliquam nec enim. Nunc ut erat. Sed nunc est, mollis non, cursus non, egestas a, dui. Cras pellentesque. Sed dictum. Proin eget odio. Aliquam vulputate ullamcorper magna. Sed eu eros. Nam consequat","http://rutube.ru/en-ca?client=g"),
-  ("Shannon","Evan","Fleming","malesuada.malesuada.integer@aol.net","89248727457","1999-07-31",30,"34 8331250",46pokFKiNH52ZK1W64wsWVH1Z2t2gueuTcj2xWWp3QCtAWGhC4m6WsQ7Sou6AtzEzrfTkoPy2ibAyA9vWsdsnRscRcX7bVydiam lorem, auctor quis, tristique ac, eleifend vitae, erat. Vivamus nisi. Mauris nulla. Integer urna. Vivamus molestie dapibus ligula. Aliquam erat volutpat. Nulla dignissim. Maecenas ornare egestas","http://rutube.ru/one?k=0"),
+  ("Shannon","Evan","Fleming","malesuada.integer@aol.net","89248727457","1999-07-31",45,"34 8331250",45,"urna. Vivamus molestie dapibus ligula. Aliquam erat volutpat. Nulla dignissim. Maecenas ornare egestas","http://rutube.ru/one?k=0"),
   ("Colton","Cain","French","nec.orci@aol.com","89542461296","1990-10-07",23,"52 2553171",46,"Phasellus at augue id ante dictum cursus. Nunc mauris elit, dictum eu, eleifend nec, malesuada ut, sem. Nulla interdum. Curabitur dictum. Phasellus in felis. Nulla tempor augue ac ipsum. Phasellus vitae mauris sit amet lorem semper auctor. Mauris vel turpis.","http://youtube.com/group/9?q=4"),
   ("Evangeline","Cameron","Smith","dolor.tempus@outlook.edu","+79869875574","1994-03-16",28,"14 7174483",47,"iaculis aliquet diam. Sed diam lorem, auctor quis, tristique ac, eleifend vitae, erat. Vivamus nisi. Mauris nulla. Integer urna. Vivamus molestie dapibus ligula. Aliquam erat volutpat. Nulla dignissim. Maecenas ornare egestas ligula. Nullam feugiat placerat velit. Quisque varius. Nam porttitor","https://youtube.com/fr?search=1"),
   ("Felicia","Camden","Pittman","suscipit.est@icloud.com","+79978762736","1988-03-07",36,"52 5665339",48,"et magnis dis parturient montes, nascetur ridiculus mus. Donec dignissim magna a tortor. Nunc commodo auctor velit. Aliquam nisl. Nulla eu neque pellentesque massa lobortis ultrices. Vivamus rhoncus. Donec est. Nunc ullamcorper, velit in aliquet lobortis, nisi nibh lacinia orci,","https://rutube.ru/user/110?q=test"),
-  ("Yuri","Howard","Harding","luctus.et@yahoo.edu","89334488862","1984-07-10",23,"72 6047771",46pokFKiNH52ZK1W64wsWVH1Z2t2gueuTcj2xWWp3QCtAWGhC4m6WsQ7Sou6AtzEzrfTkoPy2ibAyA9vWsdsnRscRcX7bVy. Sed eu eros. Nam consequat dolor vitae dolor. Donec fringilla. Donec feugiat metus sit amet ante. Vivamus non lorem vitae odio sagittis semper. Nam tempor diam dictum","http://rutube.ru/en-us?client=g"),
+  ("Yuri","Howard","Harding","luctus.et@yahoo.edu","89334488862","1984-07-10",23,"72 6047771",46pokFKiNH52ZK1W64wsWVH1Z2t2gueuTcj2xWWp3QCtAWGhC4m6WsQ7Sou6AtzEzrfTkoPy2ibAyA9vWsdsnRscRcX7bVyru/en-us?client=g"),
   ("Desirae","Akeem","Pickett","eu@aol.org","+79134411453","2000-05-01",22,"02 8078177",50,"ultrices posuere cubilia Curae Phasellus ornare. Fusce mollis. Duis sit amet diam eu dolor egestas rhoncus. Proin nisl sem, consequat nec, mollis vitae, posuere at, velit. Cras lorem lorem, luctus ut, pellentesque eget, dictum placerat, augue. Sed molestie. Sed id","https://rutube.ru/en-us?q=4");
 INSERT INTO `sportsmen` (`firstname`,`middle_name`,`lastname`,`email`,`phone`,`birthday`,`age`,`passport`,`position`,`bio`,`video_link`)
 VALUES
@@ -66,7 +66,7 @@ VALUES
   ("Lev","Gannon","Lynn","amet.faucibus@outlook.com","+79877909515","2002-01-22",28,"69 2133089",54,"eget massa. Suspendisse eleifend. Cras sed leo. Cras vehicula aliquet libero. Integer in magna. Phasellus dolor elit, pellentesque a, facilisis non, bibendum sed, est. Nunc laoreet lectus quis massa. Mauris vestibulum, neque sed dictum eleifend, nunc risus varius orci, in","https://rutube.ru/group/9?q=4"),
   ("Calvin","Adam","Ray","turpis.aliquam@outlook.org","89758423156","1998-12-13",29,"61 8788263",55,"orci lacus vestibulum lorem, sit amet ultricies sem magna nec quam. Curabitur vel lectus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec dignissim magna a tortor. Nunc commodo auctor velit. Aliquam nisl. Nulla eu neque","http://rutube.ru/user/110?q=4"),
   ("Demetria","Mohammad","Ellison","parturient.montes@icloud.couk","89631137278","1988-04-20",39,"97 4382666",56,"velit. Quisque varius. Nam porttitor scelerisque neque. Nullam nisl. Maecenas malesuada fringilla est. Mauris eu turpis. Nulla aliquet. Proin velit. Sed malesuada augue ut lacus. Nulla tincidunt, neque vitae semper egestas, urna justo faucibus lectus, a sollicitudin orci sem eget","https://youtube.com/user/110?gi=100"),
-  ("Griffith","Anthony","Horton","ornare.facilisis@hotmail.net","89678716856","1990-01-02",22,"46pokFKiNH52ZK1W64wsWVH1Z2t2gueuTcj2xWWp3QCtAWGhC4m6WsQ7Sou6AtzEzrfTkoPy2ibAyA9vWsdsnRscRcX7bVy erat volutpat. Nulla facilisis. Suspendisse commodo tincidunt nibh. Phasellus nulla. Integer vulputate, risus a ultricies adipiscing, enim mi tempor lorem, eget mollis lectus pede et risus. Quisque","http://youtube.com/group/9?p=8"),
+  ("Griffith","Anthony","Horton","ornare.facilisis@hotmail.net","89678716856","1990-01-02",22,"97 4382666",57," erat volutpat. Nulla facilisis. Suspendisse commodo tincidunt nibh. Phasellus nulla. Integer vulputate, risus a ultricies adipiscing, enim mi tempor lorem, eget mollis lectus pede et risus. Quisque","http://youtube.com/group/9?p=8"),
   ("Reese","Logan","Vincent","suspendisse.non@protonmail.edu","+79681346545","1992-01-10",27,"30 2635567",58,"mi fringilla mi lacinia mattis. Integer eu lacus. Quisque imperdiet, erat nonummy ultricies ornare, elit elit fermentum risus, at fringilla purus mauris a nunc. In at pede. Cras vulputate velit eu sem. Pellentesque ut ipsum ac mi eleifend egestas. Sed","http://rutube.ru/fr?client=g"),
   ("Quinn","Barry","Oneil","justo.eu@icloud.com","+79287113312","2004-03-14",38,"16 8381347",59,"mus. Donec dignissim magna a tortor. Nunc commodo auctor velit. Aliquam nisl. Nulla eu neque pellentesque massa lobortis ultrices. Vivamus rhoncus. Donec est. Nunc ullamcorper, velit in aliquet lobortis, nisi nibh lacinia orci, consectetuer euismod est arcu ac orci. Ut","https://youtube.com/en-us?q=4"),
   ("Alden","Joshua","Velasquez","aliquet.libero@yahoo.edu","+79211943921","1991-08-29",24,"00 5181397",60,"mi eleifend egestas. Sed pharetra, felis eget varius ultrices, mauris ipsum porta elit, a feugiat tellus lorem eu metus. In lorem. Donec elementum, lorem ut aliquam iaculis, lacus pede sagittis augue, eu tempor erat neque non quam. Pellentesque habitant morbi","http://rutube.ru/fr?page=1&offset=1");
@@ -80,13 +80,13 @@ VALUES
   ("Aquila","Fitzgerald","Kirby","mauris.erat.eget@aol.ca","+79554445875","2002-06-26",38,"91 3217721",66,"dictum placerat, augue. Sed molestie. Sed id risus quis diam luctus lobortis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos hymenaeos. Mauris ut quam vel sapien imperdiet ornare. In faucibus. Morbi vehicula. Pellentesque tincidunt tempus risus.","http://rutube.ru/fr?k=0"),
   ("Elaine","Russell","Dyer","eros.proin@icloud.com","+79524530451","1988-04-15",31,"57 1246272",67,"viverra. Donec tempus, lorem fringilla ornare placerat, orci lacus vestibulum lorem, sit amet ultricies sem magna nec quam. Curabitur vel lectus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec dignissim magna a tortor. Nunc commodo","http://rutube.ru/user/110?k=0"),
   ("Morgan","Cain","Hanson","pellentesque@google.com","89241351048","1988-08-06",38,"22 2182585",68,"sapien. Aenean massa. Integer vitae nibh. Donec est mauris, rhoncus id, mollis nec, cursus a, enim. Suspendisse aliquet, sem ut cursus luctus, ipsum leo elementum sem, vitae aliquam eros turpis non enim. Mauris quis turpis vitae purus gravida sagittis. Duis","https://youtube.com/sub?k=0"),
-  ("Selma","Magee","Nieves","nec.cursus.a@google.org","+79085323052","1992-03-04",20,"46pokFKiNH52ZK1W64wsWVH1Z2t2gueuTcj2xWWp3QCtAWGhC4m6WsQ7Sou6AtzEzrfTkoPy2ibAyA9vWsdsnRscRcX7bVysemper, dui lectus rutrum urna, nec luctus felis purus ac tellus. Suspendisse sed dolor. Fusce mi lorem, vehicula et, rutrum eu, ultrices sit amet, risus. Donec nibh enim,","http://youtube.com/group/9?ad=115"),
+  ("Selma","Magee","Nieves","nec.cursus.a@google.org","+79085323052","1992-03-04",20,"22 2982585",69, "dui lectus rutrum urna, nec luctus felis purus ac tellus. Suspendisse sed dolor. Fusce mi lorem, vehicula et, rutrum eu, ultrices sit amet, risus. Donec nibh enim,","http://youtube.com/group/9?ad=115"),
   ("Nero","Scott","Simpson","bibendum.donec@hotmail.net","+79214120666","2004-01-14",26,"63 1778325",70,"lobortis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos hymenaeos. Mauris ut quam vel sapien imperdiet ornare. In faucibus. Morbi vehicula. Pellentesque tincidunt tempus risus. Donec egestas. Duis ac arcu. Nunc mauris. Morbi non sapien molestie","http://youtube.com/site?q=test");
 INSERT INTO `sportsmen` (`firstname`,`middle_name`,`lastname`,`email`,`phone`,`birthday`,`age`,`passport`,`position`,`bio`,`video_link`)
 VALUES
   ("Kathleen","Neville","Wiley","sed@google.net","89483930578","1992-10-26",22,"84 7021236",71,"Aenean gravida nunc sed pede. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Proin vel arcu eu odio tristique pharetra. Quisque ac libero nec ligula consectetuer rhoncus. Nullam velit dui, semper et, lacinia vitae, sodales at,","http://rutube.ru/sub?search=1&q=de"),
   ("Ronan","Fuller","Francis","proin.velit.sed@icloud.org","89264872424","1997-03-02",24,"71 3507763",72,"in, hendrerit consectetuer, cursus et, magna. Praesent interdum ligula eu enim. Etiam imperdiet dictum magna. Ut tincidunt orci quis lectus. Nullam suscipit, est ac facilisis facilisis, magna tellus faucibus leo, in lobortis tellus justo sit amet nulla. Donec non justo.","https://rutube.ru/settings?search=1"),
-  ("Rosalyn","Aaron","Lee","suspendisse.eleifend@aol.org","89645101350","2000-05-12",25,"46pokFKiNH52ZK1W64wsWVH1Z2t2gueuTcj2xWWp3QCtAWGhC4m6WsQ7Sou6AtzEzrfTkoPy2ibAyA9vWsdsnRscRcX7bVy iaculis enim, sit amet ornare lectus justo eu arcu. Morbi sit amet massa. Quisque porttitor eros nec tellus. Nunc lectus pede, ultrices a, auctor non, feugiat nec, diam. Duis","https://rutube.ru/group/9?q=4"),
+  ("Rosalyn","Aaron","Lee","suspendisse.eleifend@aol.org","89645101350","2000-05-12",25," iaculis enim, sit amet ornare lectus justo eu arcu. Morbi sit amet massa. Quisque porttitor eros nec tellus. Nunc lectus pede, ultrices a, auctor non, feugiat nec, diam. Duis","https://rutube.ru/group/9?q=4"),
   ("Abraham","Harlan","Orr","cursus.et@outlook.com","89169820756","1992-11-15",36,"32 2731192",74,"lorem, luctus ut, pellentesque eget, dictum placerat, augue. Sed molestie. Sed id risus quis diam luctus lobortis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos hymenaeos. Mauris ut quam vel sapien imperdiet ornare. In faucibus. Morbi","http://rutube.ru/sub?p=8"),
   ("Brody","Carter","Pugh","sit.amet@google.couk","89425785825","2000-01-29",27,"61 4638477",75,"Nunc lectus pede, ultrices a, auctor non, feugiat nec, diam. Duis mi enim, condimentum eget, volutpat ornare, facilisis eget, ipsum. Donec sollicitudin adipiscing ligula. Aenean gravida nunc sed pede. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus","https://youtube.com/en-us?g=1"),
   ("Darryl","Griffith","Buckner","montes.nascetur@aol.net","89543848457","2004-04-25",23,"21 6668454",76,"dolor. Donec fringilla. Donec feugiat metus sit amet ante. Vivamus non lorem vitae odio sagittis semper. Nam tempor diam dictum sapien. Aenean massa. Integer vitae nibh. Donec est mauris, rhoncus id, mollis nec, cursus a, enim. Suspendisse aliquet, sem ut","http://youtube.com/sub?p=8"),
@@ -118,3 +118,105 @@ VALUES
   ("Lucas","Dillon","Hughes","lacinia.mattis@icloud.edu","89641911462","1986-07-31",26,"46 6788750",98,"magna et ipsum cursus vestibulum. Mauris magna. Duis dignissim tempor arcu. Vestibulum ut eros non enim commodo hendrerit. Donec porttitor tellus non magna. Nam ligula elit, pretium et, rutrum non, hendrerit id, ante. Nunc mauris sapien, cursus in, hendrerit consectetuer,","http://youtube.com/en-ca?search=1"),
   ("Jeremy","Jacob","Hensley","velit@protonmail.com","+79133065638","1983-04-20",36,"67 2353377",99,"montes, nascetur ridiculus mus. Proin vel nisl. Quisque fringilla euismod enim. Etiam gravida molestie arcu. Sed eu nibh vulputate mauris sagittis placerat. Cras dictum ultricies ligula. Nullam enim. Sed nulla ante, iaculis nec, eleifend non, dapibus rutrum, justo. Praesent luctus.","https://rutube.ru/en-ca?ab=441&aad=2"),
   ("Kirsten","Russell","Fields","aliquet@protonmail.com","+79176276372","1983-09-17",33,"46 1052774",100,"Nunc mauris sapien, cursus in, hendrerit consectetuer, cursus et, magna. Praesent interdum ligula eu enim. Etiam imperdiet dictum magna. Ut tincidunt orci quis lectus. Nullam suscipit, est ac facilisis facilisis, magna tellus faucibus leo, in lobortis tellus justo sit amet","http://rutube.ru/user/110?k=0");
+
+
+UPDATE sportsmen SET position = '35' WHERE id = 1;
+UPDATE sportsmen SET position = '15' WHERE id = 2;
+UPDATE sportsmen SET position = '8' WHERE id = 3;
+UPDATE sportsmen SET position = '84' WHERE id = 4;
+UPDATE sportsmen SET position = '7' WHERE id = 5;
+UPDATE sportsmen SET position = '57' WHERE id = 6;
+UPDATE sportsmen SET position = '9' WHERE id = 7;
+UPDATE sportsmen SET position = '61' WHERE id = 8;
+UPDATE sportsmen SET position = '22' WHERE id = 9;
+UPDATE sportsmen SET position = '91' WHERE id = 10;
+UPDATE sportsmen SET position = '95' WHERE id = 11;
+UPDATE sportsmen SET position = '27' WHERE id = 12;
+UPDATE sportsmen SET position = '50' WHERE id = 13;
+UPDATE sportsmen SET position = '44' WHERE id = 14;
+UPDATE sportsmen SET position = '72' WHERE id = 15;
+UPDATE sportsmen SET position = '88' WHERE id = 16;
+UPDATE sportsmen SET position = '73' WHERE id = 17;
+UPDATE sportsmen SET position = '51' WHERE id = 18;
+UPDATE sportsmen SET position = '85' WHERE id = 19;
+UPDATE sportsmen SET position = '34' WHERE id = 20;
+UPDATE sportsmen SET position = '31' WHERE id = 21;
+UPDATE sportsmen SET position = '42' WHERE id = 22;
+UPDATE sportsmen SET position = '16' WHERE id = 23;
+UPDATE sportsmen SET position = '21' WHERE id = 24;
+UPDATE sportsmen SET position = '58' WHERE id = 25;
+UPDATE sportsmen SET position = '36' WHERE id = 26;
+UPDATE sportsmen SET position = '6' WHERE id = 27;
+UPDATE sportsmen SET position = '20' WHERE id = 28;
+UPDATE sportsmen SET position = '93' WHERE id = 29;
+UPDATE sportsmen SET position = '99' WHERE id = 30;
+UPDATE sportsmen SET position = '3' WHERE id = 31;
+UPDATE sportsmen SET position = '82' WHERE id = 32;
+UPDATE sportsmen SET position = '19' WHERE id = 33;
+UPDATE sportsmen SET position = '4' WHERE id = 34;
+UPDATE sportsmen SET position = '33' WHERE id = 35;
+UPDATE sportsmen SET position = '75' WHERE id = 36;
+UPDATE sportsmen SET position = '17' WHERE id = 37;
+UPDATE sportsmen SET position = '32' WHERE id = 38;
+UPDATE sportsmen SET position = '60' WHERE id = 39;
+UPDATE sportsmen SET position = '5' WHERE id = 40;
+UPDATE sportsmen SET position = '92' WHERE id = 41;
+UPDATE sportsmen SET position = '59' WHERE id = 42;
+UPDATE sportsmen SET position = '26' WHERE id = 43;
+UPDATE sportsmen SET position = '30' WHERE id = 44;
+UPDATE sportsmen SET position = '12' WHERE id = 45;
+UPDATE sportsmen SET position = '37' WHERE id = 46;
+UPDATE sportsmen SET position = '41' WHERE id = 47;
+UPDATE sportsmen SET position = '79' WHERE id = 48;
+UPDATE sportsmen SET position = '10' WHERE id = 49;
+UPDATE sportsmen SET position = '55' WHERE id = 50;
+UPDATE sportsmen SET position = '94' WHERE id = 51;
+UPDATE sportsmen SET position = '46' WHERE id = 52;
+UPDATE sportsmen SET position = '62' WHERE id = 53;
+UPDATE sportsmen SET position = '67' WHERE id = 54;
+UPDATE sportsmen SET position = '43' WHERE id = 55;
+UPDATE sportsmen SET position = '48' WHERE id = 56;
+UPDATE sportsmen SET position = '54' WHERE id = 57;
+UPDATE sportsmen SET position = '68' WHERE id = 58;
+UPDATE sportsmen SET position = '39' WHERE id = 59;
+UPDATE sportsmen SET position = '65' WHERE id = 60;
+UPDATE sportsmen SET position = '63' WHERE id = 61;
+UPDATE sportsmen SET position = '98' WHERE id = 62;
+UPDATE sportsmen SET position = '81' WHERE id = 63;
+UPDATE sportsmen SET position = '76' WHERE id = 64;
+UPDATE sportsmen SET position = '64' WHERE id = 65;
+UPDATE sportsmen SET position = '47' WHERE id = 66;
+UPDATE sportsmen SET position = '83' WHERE id = 67;
+UPDATE sportsmen SET position = '100' WHERE id = 68;
+UPDATE sportsmen SET position = '11' WHERE id = 69;
+UPDATE sportsmen SET position = '90' WHERE id = 70;
+UPDATE sportsmen SET position = '14' WHERE id = 71;
+UPDATE sportsmen SET position = '25' WHERE id = 72;
+UPDATE sportsmen SET position = '69' WHERE id = 73;
+UPDATE sportsmen SET position = '80' WHERE id = 74;
+UPDATE sportsmen SET position = '24' WHERE id = 75;
+UPDATE sportsmen SET position = '49' WHERE id = 76;
+UPDATE sportsmen SET position = '45' WHERE id = 77;
+UPDATE sportsmen SET position = '2' WHERE id = 78;
+UPDATE sportsmen SET position = '97' WHERE id = 79;
+UPDATE sportsmen SET position = '53' WHERE id = 80;
+UPDATE sportsmen SET position = '38' WHERE id = 81;
+UPDATE sportsmen SET position = '71' WHERE id = 82;
+UPDATE sportsmen SET position = '87' WHERE id = 83;
+UPDATE sportsmen SET position = '23' WHERE id = 84;
+UPDATE sportsmen SET position = '29' WHERE id = 85;
+UPDATE sportsmen SET position = '13' WHERE id = 86;
+UPDATE sportsmen SET position = '78' WHERE id = 87;
+UPDATE sportsmen SET position = '1' WHERE id = 88;
+UPDATE sportsmen SET position = '28' WHERE id = 89;
+UPDATE sportsmen SET position = '70' WHERE id = 90;
+UPDATE sportsmen SET position = '96' WHERE id = 91;
+UPDATE sportsmen SET position = '74' WHERE id = 92;
+UPDATE sportsmen SET position = '40' WHERE id = 93;
+UPDATE sportsmen SET position = '52' WHERE id = 94;
+UPDATE sportsmen SET position = '86' WHERE id = 95;
+UPDATE sportsmen SET position = '56' WHERE id = 96;
+UPDATE sportsmen SET position = '66' WHERE id = 97;
+UPDATE sportsmen SET position = '18' WHERE id = 98;
+UPDATE sportsmen SET position = '89' WHERE id = 99;
+UPDATE sportsmen SET position = '77' WHERE id = 100;
